@@ -23,19 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="strings.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sandbox/strings.php">
+      <file leaf-file-name="arrays.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/arrays.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="7" selection-start="0" selection-end="342" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="string_functions.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sandbox/string_functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="919" selection-end="919" vertical-scroll-proportion="0.66481996" vertical-offset="0" max-vertical-offset="722">
+            <state line="7" column="7" selection-start="81" selection-end="81" vertical-scroll-proportion="0.14542936" vertical-offset="0" max-vertical-offset="722">
               <folding />
             </state>
           </provider>
@@ -58,6 +49,9 @@
         <option value="$PROJECT_DIR$/sandbox/index.html" />
         <option value="$PROJECT_DIR$/sandbox/strings.php" />
         <option value="$PROJECT_DIR$/sandbox/string_functions.php" />
+        <option value="$PROJECT_DIR$/sandbox/integers.php" />
+        <option value="$PROJECT_DIR$/sandbox/floats.php" />
+        <option value="$PROJECT_DIR$/sandbox/arrays.php" />
       </list>
     </option>
   </component>
@@ -221,13 +215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="7" selection-start="86" selection-end="86" vertical-scroll-proportion="0.14542936" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/variables.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
@@ -242,16 +229,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/strings.php">
+    <entry file="file://$PROJECT_DIR$/sandbox/string_functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="7" selection-start="0" selection-end="342" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="510">
+        <state line="34" column="0" selection-start="921" selection-end="921" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/string_functions.php">
+    <entry file="file://$PROJECT_DIR$/sandbox/strings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="919" selection-end="919" vertical-scroll-proportion="0.66481996" vertical-offset="0" max-vertical-offset="722">
+        <state line="28" column="7" selection-start="0" selection-end="342" vertical-scroll-proportion="0.58171743" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/integers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="2" selection-start="768" selection-end="768" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/floats.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="782" selection-end="782" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="0" selection-end="86" vertical-scroll-proportion="0.020775624" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="81" selection-end="81" vertical-scroll-proportion="0.14542936" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>
