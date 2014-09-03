@@ -22,17 +22,7 @@
     <favorites_list name="Week 1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="activity1-1.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/activity1-1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="0.4362881" vertical-offset="0" max-vertical-offset="722">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -59,14 +49,17 @@
         <option value="$PROJECT_DIR$/sandbox/type_casting.php" />
         <option value="$PROJECT_DIR$/sandbox/constants.php" />
         <option value="$PROJECT_DIR$/activity1-1.php" />
+        <option value="$PROJECT_DIR$/sandbox/logical.php" />
+        <option value="$PROJECT_DIR$/sandbox/functions_defining.php" />
+        <option value="$PROJECT_DIR$/sandbox/functions_arguements.php" />
+        <option value="$PROJECT_DIR$/sandbox/functions_returnvalues.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
     <option name="y" value="22" />
-    <option name="width" value="1400" />
+    <option name="width" value="1440" />
     <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -95,7 +88,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,6 +122,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,15 +163,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1400" height="843" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="843" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32083333" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -211,11 +204,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sandbox/booleans.php">
+    <entry file="file://$PROJECT_DIR$/activity1-1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+        <state line="21" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity1-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/booleans.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/phpinfo.php">
@@ -235,9 +240,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/variables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/helloworld.php">
@@ -257,9 +260,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/integers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="2" selection-start="768" selection-end="768" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
+        <state line="34" column="2" selection-start="768" selection-end="768" vertical-scroll-proportion="0.7063712" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/floats.php">
@@ -284,21 +285,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/booleans.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="208" selection-end="208" vertical-scroll-proportion="0.33240998" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="16" column="7" selection-start="208" selection-end="208" vertical-scroll-proportion="0.33240998" vertical-offset="0" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/null.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.47783932" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
+        <state line="23" column="0" selection-start="546" selection-end="546" vertical-scroll-proportion="0.47783932" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/type_casting.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="5" selection-start="725" selection-end="725" vertical-scroll-proportion="0.64404434" vertical-offset="0" max-vertical-offset="722">
+        <state line="31" column="5" selection-start="725" selection-end="725" vertical-scroll-proportion="0.64404434" vertical-offset="0" max-vertical-offset="722" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="2" selection-start="215" selection-end="215" vertical-scroll-proportion="0.3739612" vertical-offset="0" max-vertical-offset="722" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activity1-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="0.4362881" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/logical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="37" selection-start="395" selection-end="395" vertical-scroll-proportion="0.5193906" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>
@@ -310,16 +324,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/constants.php">
+    <entry file="file://$PROJECT_DIR$/sandbox/functions_defining.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="2" selection-start="215" selection-end="215" vertical-scroll-proportion="0.3739612" vertical-offset="0" max-vertical-offset="722">
+        <state line="27" column="7" selection-start="0" selection-end="371" vertical-scroll-proportion="0.5609418" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/activity1-1.php">
+    <entry file="file://$PROJECT_DIR$/sandbox/functions_arguements.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="0.4362881" vertical-offset="0" max-vertical-offset="722">
+        <state line="0" column="0" selection-start="0" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/functions_returnvalues.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="42" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.91689754" vertical-offset="118" max-vertical-offset="945">
           <folding />
         </state>
       </provider>
