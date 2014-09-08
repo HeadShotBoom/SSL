@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2-1.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Act-Filesystem_functions/2-1.php">
+      <file leaf-file-name="activity2.2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACT-Validate_Input/activity2.2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="272" selection-end="272" vertical-scroll-proportion="0.29085872" vertical-offset="0" max-vertical-offset="722">
+            <state line="9" column="36" selection-start="357" selection-end="357" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dictionary.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Act-Filesystem_functions/dictionary.txt">
+      <file leaf-file-name="activity2.2.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ACT-Validate_Input/activity2.2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="20" column="2" selection-start="581" selection-end="581" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="722">
               <folding />
             </state>
           </provider>
@@ -61,6 +61,8 @@
         <option value="$PROJECT_DIR$/file_read.php" />
         <option value="$PROJECT_DIR$/Act-Filesystem_functions/dictionary.txt" />
         <option value="$PROJECT_DIR$/Act-Filesystem_functions/2-1.php" />
+        <option value="$PROJECT_DIR$/ACT-Validate_Input/activity2.2.html" />
+        <option value="$PROJECT_DIR$/ACT-Validate_Input/activity2.2.php" />
       </list>
     </option>
   </component>
@@ -125,7 +127,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Act-Filesystem_functions" />
+              <option name="myItemId" value="ACT-Validate_Input" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -135,7 +137,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week 1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week 1/form_processing" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -169,7 +171,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -181,6 +182,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -203,6 +205,20 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Act-Filesystem_functions/2-1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="6" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Act-Filesystem_functions/dictionary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="450">
@@ -257,23 +273,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cookies.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="245" selection-end="563" vertical-scroll-proportion="0.5401662" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
+        <state line="26" column="7" selection-start="245" selection-end="563" vertical-scroll-proportion="0.5401662" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.16620499" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.16620499" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/filetest.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.04021448" vertical-offset="0" max-vertical-offset="746">
-          <folding />
-        </state>
+        <state line="2" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.04021448" vertical-offset="0" max-vertical-offset="746" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file_basics.php">
@@ -299,7 +309,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Act-Filesystem_functions/2-1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="272" selection-end="272" vertical-scroll-proportion="0.29085872" vertical-offset="0" max-vertical-offset="722">
+        <state line="14" column="6" selection-start="272" selection-end="272" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACT-Validate_Input/activity2.2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="357" selection-end="357" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACT-Validate_Input/activity2.2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="2" selection-start="581" selection-end="581" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="722">
           <folding />
         </state>
       </provider>
