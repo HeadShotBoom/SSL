@@ -13,7 +13,7 @@ session_start();
 
 <?php
 $_SESSION["first_name"] = "Kevin";
-$name                   = $_SESSION["first_name"];
+$name = $_SESSION["first_name"];
 echo $name;
 ?>
 

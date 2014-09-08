@@ -1,6 +1,9 @@
 <?php
+
+//REMEMBER: Setting cookies must be done before ANY HTML is output to the browser unless buffering is turned on
+
 $name   = "test";
-$value  = "hello";
+$value  = "Hello";
 $expire = time()+(60 * 60 * 24 * 7);//Add Seconds
 setcookie($name, $value, $expire);
 ?>
@@ -13,7 +16,6 @@ setcookie($name, $value, $expire);
 	<link rel="stylesheet" href="">
 </head>
 <body>
-
 <?php
 
 // Ternary Method of testing for "isset"

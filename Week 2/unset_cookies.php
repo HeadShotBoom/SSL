@@ -1,7 +1,7 @@
 <?php
 $name   = "test";
-$value  = "Hello";
-$expire = time()-3600);//Add Seconds
+$value  = "hello";
+$expire = time()+604800;//Add a weeks worth of seconds
 //setcookie($name, $value, $expire);
 
 // setcookie($name); #Not the best way to unset
