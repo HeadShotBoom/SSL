@@ -22,19 +22,7 @@
     <favorites_list name="Week 2" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="image.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.24930748" vertical-offset="0" max-vertical-offset="722">
-              <folding>
-                <element signature="e#340#379#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -48,6 +36,10 @@
         <option value="$PROJECT_DIR$/unset_cookies.php" />
         <option value="$PROJECT_DIR$/sessions.php" />
         <option value="$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php" />
+        <option value="$PROJECT_DIR$/basic.html" />
+        <option value="$PROJECT_DIR$/file_basics.php" />
+        <option value="$PROJECT_DIR$/filetest.txt" />
+        <option value="$PROJECT_DIR$/file_read.php" />
       </list>
     </option>
   </component>
@@ -102,20 +94,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Act-Graphic-Image-Manipulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -150,14 +128,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="843" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -165,11 +144,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -189,54 +167,90 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sessions.php">
+    <entry file="file://$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
-          <folding />
+        <state line="12" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="450">
+          <folding>
+            <element signature="e#340#379#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookies.php">
+    <entry file="file://$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="480">
-          <folding />
+        <state line="12" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="450">
+          <folding>
+            <element signature="e#340#379#0" expanded="false" />
+          </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="7" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unset_cookies.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="673" selection-end="673" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="525">
-          <folding />
-        </state>
+        <state line="29" column="7" selection-start="673" selection-end="673" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sessions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="314" selection-end="314" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="722">
-          <folding />
-        </state>
+        <state line="20" column="7" selection-start="314" selection-end="314" vertical-scroll-proportion="0.41551247" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Act-PHP-Sessions/setsessions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="404" selection-end="404" vertical-scroll-proportion="0.23272215" vertical-offset="0" max-vertical-offset="709">
-          <folding />
-        </state>
+        <state line="11" column="20" selection-start="404" selection-end="404" vertical-scroll-proportion="0.23272215" vertical-offset="0" max-vertical-offset="709" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Act-PHP-Sessions/getsessions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="5" selection-start="339" selection-end="339" vertical-scroll-proportion="0.24930748" vertical-offset="0" max-vertical-offset="722">
           <folding>
-            <element signature="e#340#379#0" expanded="true" />
+            <element signature="e#340#379#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="7" selection-start="245" selection-end="563" vertical-scroll-proportion="0.5401662" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_basics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="16" selection-start="974" selection-end="974" vertical-scroll-proportion="0.6855956" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.16620499" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_read.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="3" selection-start="430" selection-end="430" vertical-scroll-proportion="0.3531856" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filetest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="52" selection-start="112" selection-end="112" vertical-scroll-proportion="0.04021448" vertical-offset="0" max-vertical-offset="746">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,3 @@
+This is a plain text file.
+This is text on the second line.
+Starting a new line enters a BR character that needs to be considered when counting.
