@@ -4,10 +4,18 @@
 session_start();
 
 $_SESSION["name"]  = $_GET["name"];
+$name              = $_SESSION["name"];
 $_SESSION["state"] = $_GET["state"];
+$state             = $_SESSION["state"];
 $_SESSION["city"]  = $_GET["city"];
-echo $_SESSION["name"];
-echo $_SESSION["state"];
-echo $_SESSION["city"];
+$city              = $_SESSION["city"];
+echo $name . "<br>";
+echo $state . "<br>";
+echo $city . "<br>";
 
+?>
+
+
+<?php
+print_r($_SESSION);
 ?>
