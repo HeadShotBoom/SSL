@@ -22,7 +22,31 @@
     <favorites_list name="Week 2" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="cars_pdo.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpexport/includes/cars_pdo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.4570637" vertical-offset="0" max-vertical-offset="722">
+              <folding>
+                <marker date="1410275820000" expanded="true" signature="221:385" placeholder="SELECT car_i..cars..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flowers_pdo.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpexport/includes/flowers_pdo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="441" selection-end="503" vertical-scroll-proportion="-8.833333" vertical-offset="13" max-vertical-offset="810">
+              <folding>
+                <marker date="1410277019000" expanded="true" signature="216:223" placeholder="SELECT car_i..cars..." />
+                <marker date="1410277019000" expanded="true" signature="216:242" placeholder="SELECT * FRO..arrangements..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -50,6 +74,8 @@
         <option value="$PROJECT_DIR$/Creating_Namespaces/src/foundationphp/uploadfile.php" />
         <option value="$PROJECT_DIR$/Creating_Namespaces/src/foundationphp/UploadFile.php" />
         <option value="$PROJECT_DIR$/Creating_Namespaces/form.php" />
+        <option value="$PROJECT_DIR$/phpexport/includes/cars_pdo.php" />
+        <option value="$PROJECT_DIR$/phpexport/includes/flowers_pdo.php" />
       </list>
     </option>
   </component>
@@ -113,29 +139,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Creating_Namespaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
+              <option name="myItemId" value="phpexport" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Creating_Namespaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="foundationphp" />
+              <option name="myItemId" value="includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,9 +158,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/phpexport/includes" />
       <recent name="$PROJECT_DIR$/Creating_Namespaces" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/phpexport/includes" />
+      <recent name="$PROJECT_DIR$/PHP_database_objects" />
       <recent name="$PROJECT_DIR$/OOP with Adress class" />
     </key>
   </component>
@@ -293,11 +304,6 @@
         <state line="26" column="7" selection-start="245" selection-end="563" vertical-scroll-proportion="0.5401662" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.16620499" vertical-offset="0" max-vertical-offset="722" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Act-Graphic-Image-Manipulation/image.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="0.2700831" vertical-offset="0" max-vertical-offset="722" />
@@ -367,6 +373,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.083102494" vertical-offset="0" max-vertical-offset="722">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpexport/includes/flowers_pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="441" selection-end="503" vertical-scroll-proportion="-8.833333" vertical-offset="13" max-vertical-offset="810">
+          <folding>
+            <marker date="1410277019000" expanded="true" signature="216:223" placeholder="SELECT car_i..cars..." />
+            <marker date="1410277019000" expanded="true" signature="216:242" placeholder="SELECT * FRO..arrangements..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpexport/includes/cars_pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.4570637" vertical-offset="0" max-vertical-offset="722">
+          <folding>
+            <marker date="1410275820000" expanded="true" signature="221:385" placeholder="SELECT car_i..cars..." />
+          </folding>
         </state>
       </provider>
     </entry>
