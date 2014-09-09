@@ -46,9 +46,24 @@ class Address {
     //Name of country
     public $country_name;
 
-
+//Display an address in HTML
     function display(){
         $output = '';
+
+        //Street Address
+        $output .= $this->street_address_1;
+        if($this->street_address_2){
+            $output.= $this->street_address_2;
+        }
+        //City, sub, postal
+        $output .= '<br />';
+        $output .= $this->city_name . ', ' . $this->subdivision_name;
+        $output .= $this->postal_code;
+
+        //Country
+        $output .= '<br />';
+        $output .= $this->country_name;
+
         return $output;
     }
 }
