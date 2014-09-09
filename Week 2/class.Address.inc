@@ -45,6 +45,12 @@ class Address {
 
     //Name of country
     public $country_name;
+
+
+    function display(){
+        $output = '';
+        return $output;
+    }
 }
 
 ?>
