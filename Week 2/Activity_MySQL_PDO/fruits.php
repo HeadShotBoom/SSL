@@ -34,7 +34,7 @@ $result = $stmt->fetchall(PDO::FETCH_ASSOC);
     <?php
     echo '<tr><th>Fruit ID</th><th>Fruit Name</th><th>Fruit Color</th><th>Remove?</th></tr>';
     foreach ($result as $row) {
-     echo '<tr><td>'.$row['id'].'</td><td>'.$row['fruitname'].'</td><td>'.$row['fruitcolor'].'</td><td> <a href="deletefruit.php?id=' . $row['id'] . '">Delete</a></td></tr>';
+        echo '<tr><td>'.$row['id'].'</td><td>'.$row['fruitname'].'</td><td>'.$row['fruitcolor'].'</td><td> <a href="deletefruit.php?id=' . $row['id'] . '">Delete</a></td></tr>';
     }
     ?>
 </table>

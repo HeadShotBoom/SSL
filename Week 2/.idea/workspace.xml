@@ -23,34 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fruits.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/fruits.php">
+      <file leaf-file-name="basic.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="36" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="705">
-              <folding>
-                <marker date="1410282310000" expanded="true" signature="229:303" placeholder="INSERT INTO ..." />
-                <marker date="1410282310000" expanded="true" signature="974:993" placeholder="SELECT * FRO..fruit..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="6" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
+            <state line="0" column="0" selection-start="0" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deletefruit.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/deletefruit.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="39" selection-start="234" selection-end="234" vertical-scroll-proportion="0.12465374" vertical-offset="0" max-vertical-offset="722">
-              <folding>
-                <marker date="1410280418000" expanded="true" signature="150:190" placeholder="DELETE FROM ..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +100,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -157,7 +135,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,14 +179,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="843" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -243,27 +220,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phpexport/includes/cars_pdo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phpexport/includes/flowers_pdo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="40" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/fruits.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="26" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="750">
-          <folding>
-            <marker date="1410282310000" expanded="true" signature="229:303" placeholder="INSERT INTO ..." />
-            <marker date="1410282310000" expanded="true" signature="974:993" placeholder="SELECT * FRO..fruit..." />
-          </folding>
+        <state line="19" column="36" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="6" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.0" vertical-offset="1635" max-vertical-offset="1800">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -271,23 +238,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="39" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="255">
           <folding>
-            <marker date="1410280418000" expanded="true" signature="150:190" placeholder="DELETE FROM ..." />
+            <marker date="1410280418000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phpexport/includes/cars_pdo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phpexport/includes/flowers_pdo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="441" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="810">
+        <state line="37" column="40" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/fruits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="26" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="750">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/deletefruit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="255">
+          <folding>
+            <marker date="1410280418000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpexport/includes/cars_pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpexport/includes/flowers_pdo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="441" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP_Address_class/class.Address.inc">
@@ -410,11 +399,6 @@
         <state line="4" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.083102494" vertical-offset="0" max-vertical-offset="722" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ACT-Validate_Input/activity2.2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="35" selection-start="81" selection-end="110" vertical-scroll-proportion="0.12465374" vertical-offset="0" max-vertical-offset="722" />
@@ -432,32 +416,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phpexport/includes/cars_pdo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="22" column="14" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phpexport/includes/flowers_pdo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="40" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="6" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1800">
-          <folding />
-        </state>
+        <state line="37" column="40" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/fruits.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="36" selection-start="623" selection-end="623" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="705">
-          <folding>
-            <marker date="1410282310000" expanded="true" signature="229:303" placeholder="INSERT INTO ..." />
-            <marker date="1410282310000" expanded="true" signature="974:993" placeholder="SELECT * FRO..fruit..." />
-          </folding>
+        <state line="19" column="36" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="705">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -465,8 +435,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="39" selection-start="234" selection-end="234" vertical-scroll-proportion="0.12465374" vertical-offset="0" max-vertical-offset="722">
           <folding>
-            <marker date="1410280418000" expanded="true" signature="150:190" placeholder="DELETE FROM ..." />
+            <marker date="1410280418000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Activity_MySQL_PDO/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="6" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.7788204" vertical-offset="1054" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
+          <folding />
         </state>
       </provider>
     </entry>

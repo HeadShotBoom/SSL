@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<fruits>
+  <!-- User responses follow -->
+  <fruit>
+    <fruitId>23</fruitId>
+    <fruitName>Apple</fruitName>
+    <fruitColor>Red</fruitColor>
+  </fruit>
+  <fruit>
+    <fruitId>24</fruitId>
+    <fruitName>Orange</fruitName>
+    <fruitColor>Orange</fruitColor>
+  </fruit>
+  <fruit>
+    <fruitId>25</fruitId>
+    <fruitName>Bananna</fruitName>
+    <fruitColor>Yellow</fruitColor>
+  </fruit>
+  <fruit>
+    <fruitId>26</fruitId>
+    <fruitName>Watermellon</fruitName>
+    <fruitColor>Green</fruitColor>
+  </fruit>
+</fruits>
