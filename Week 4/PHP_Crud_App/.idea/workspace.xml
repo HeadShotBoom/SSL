@@ -66,8 +66,8 @@
       <file leaf-file-name="ClientController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/ClientController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4281525" vertical-offset="582" max-vertical-offset="1605">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.5261627" vertical-offset="0" max-vertical-offset="1605">
+              <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -144,10 +144,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="1178" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,6 +176,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,8 +320,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -549,14 +548,15 @@
       <workItem from="1415337758536" duration="6000" />
       <workItem from="1415405283535" duration="14000" />
       <workItem from="1415405395848" duration="46000" />
+      <workItem from="1416072171546" duration="70000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12912000" />
+    <option name="totallyTimeSpent" value="12982000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="22" width="1920" height="1178" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="843" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -992,8 +992,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/ClientController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4281525" vertical-offset="582" max-vertical-offset="1605">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.5261627" vertical-offset="0" max-vertical-offset="1605">
+          <caret line="70" column="59" selection-start-line="70" selection-start-column="59" selection-end-line="70" selection-end-column="59" />
           <folding />
         </state>
       </provider>
